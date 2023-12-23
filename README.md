@@ -17,7 +17,7 @@ P3
 0 0 255 0 0 255 0 0 255 0 0 255
 
 Original file: deer.ppm
-![image](https://github.com/show0117/Dynamic_Allocation_Application_for_Image_Processing/blob/main/deer.ppm)
+![image](https://github.com/show0117/Dynamic_Allocation_Application_for_Image_Processing/blob/main/deer.jpg)
 
 ## Background: Text Patterns
 Patterns are contained in text files of the following format: The first value is an integer representing the number of columns in the rectangular pattern. The second value is an integer representing the number of rows in the rectangular pattern. What follows is a collection of zeros and ones that is (rows * columns) in length. For example, here is the contents of a pattern file that defines a pattern of the letter 'T':
@@ -65,4 +65,4 @@ External users can use its user interface to finish their customized images. In 
 g++ -std=c++98 main.o checkPatternValue.o checkPixelValue.o checkCin.o chooseColor.o ColorClass.o RowColumnClass.o RectangleClass.o PatternClass.o ColorImageClass.o -o proj3.exe
 
 **Sample Output**
-![image](https://github.com/show0117/Dynamic_Allocation_Application_for_Image_Processing/blob/main/new5.ppm)
+![image](https://github.com/show0117/Dynamic_Allocation_Application_for_Image_Processing/blob/main/new5.jpg)
