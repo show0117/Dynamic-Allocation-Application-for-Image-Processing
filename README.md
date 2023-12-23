@@ -1,6 +1,6 @@
 # Dynamic Allocation Application for Image Processing
 **This is a course project of EECS 280 supervised by Andrew Morgan, University of Michigan.**
-<"https://eecs280.org/">
+<https://eecs280.org/>
 
 ## Overview
 Working with, and processing images on a computer is big business for modern computer science field. In this project, we introduce different formats of images and allow users to modify or create images in several specific ways. All images will be stored as dynamic array which takes maximum advantage of C++'s good memory control and its powerful processing efficiency.
